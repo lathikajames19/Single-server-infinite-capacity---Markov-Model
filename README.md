@@ -1,5 +1,5 @@
-EX-4 Single server with infinite capacity (M/M/1):(oo/FIFO)
-Date:20-12-2024
+##EX-4 Single server with infinite capacity (M/M/1):(oo/FIFO)
+##Date:20-12-2024
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
@@ -25,8 +25,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  
 ## Program
-Developed by lathika .k
-Reference no : 24001110
+##Developed by lathika .k
+##Reference no : 24001110
 ![Screenshot 2024-12-20 134413](https://github.com/user-attachments/assets/9573b8f5-f00b-49e5-9c1c-20bc9232fb3b)
 
 
